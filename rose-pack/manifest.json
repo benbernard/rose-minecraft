@@ -1,0 +1,18 @@
+{
+ "format_version": 2,
+ "header": {
+   "description": "By Rose",
+   "name": "Cute Corgis",
+   "uuid":"8a056e1c-7a17-49d0-8f43-fda40228edd7",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 16, 0]
+  },
+ "modules": [
+   {
+     "description": "My First Add-On!",
+     "type": "resources",
+     "uuid": "4378dcf6-208d-4207-8fd1-fca570faf06b",
+     "version": [1, 0, 0]
+   }
+ ]
+}
